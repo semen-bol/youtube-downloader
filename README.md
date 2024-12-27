@@ -1,4 +1,4 @@
-# youtube-downloader
+# YouTube-DownLoader
 Download a video from youtube! 
 
 
